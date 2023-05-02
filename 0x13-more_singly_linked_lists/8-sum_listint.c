@@ -5,7 +5,6 @@
  * @head:first node in a linked list.
  * Return:resulting sum.
  */
-
 int sum_listint(listint_t *head)
 
 {
