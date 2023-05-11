@@ -47,11 +47,11 @@ void close_file(int fd)
 }
 
 /**
- * main - copies the contents of a file to another file.
- * @argc:number of arguments supplied to the program.
- * @argv:array of pointers to the arguments.
+ * main - copies the contents of a file to another file..
+ * @argc:number of arguments supplied to the program...
+ * @argv:array of pointers to the arguments...
  *
- * Return: 0 on success.
+ * Return: 0 on success..
  *
  * Description: If the argument count is incorrect - exit code 97.
  *              If file_from does not exist or cannot be read - exit code 98.
